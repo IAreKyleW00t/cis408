@@ -33,3 +33,10 @@ define('HASH',              'sha256');
 ```
 
 You would then call `require_once 'config.php';` at the beginning of your PHP file to include all these newly created variables.
+
+##Credits
+* [Bootstrap](https://github.com/twbs/bootstrap)
+* [Material Design Bootstrap Theme](https://github.com/FezVrasta/bootstrap-material-design)
+* [Modernizr](https://github.com/Modernizr/Modernizr)
+* [WordPress](https://wordpress.org)
+* [Google](https://www.google.com)
